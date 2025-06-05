@@ -1,0 +1,15 @@
+put -filemask="*.*" "//hcashareddrives/Sdrive/BHDS/BHO/King/DBExtracts/" "/BHO/King/DBExtracts/"
+put -filemask="*.*" "//hcashareddrives/Sdrive/BHDS/BHO/NorthSound/DBExtracts/" "/BHO/NorthSound/DBExtracts/"
+put -filemask="*.*" "//hcashareddrives/Sdrive/BHDS/BHO/Salish/DBExtracts/" "/BHO/Salish/DBExtracts/"
+put -filemask="*.*" "//hcashareddrives/Sdrive/BHDS/BHO/Spokane/DBExtracts/" "/BHO/Spokane/DBExtracts/"
+put -filemask="*.*" "//hcashareddrives/Sdrive/BHDS/BHO/ThurstonMason/DBExtracts/" "/BHO/ThurstonMason/DBExtracts/"
+put -filemask="*.*" "//hcashareddrives/Sdrive/BHDS/BHO/Beacon/DBExtracts/" "/BHO/Beacon/DBExtracts/"
+put -filemask="*.*" "//hcashareddrives/Sdrive/BHDS/BHO/GreaterColumbia/DBExtracts/" "/BHO/GreaterColumbia/DBExtracts/"
+put -filemask="*.*" "//hcashareddrives/Sdrive/BHDS/BHO/GreatRivers/DBExtracts/" "/BHO/GreatRivers/DBExtracts/"
+put -filemask="*.*" "//hcashareddrives/Sdrive/BHDS/BHO/Amerigroup/DBExtracts/" "/MCO/Amerigroup/DBExtracts/"
+put -filemask="*.*" "//hcashareddrives/Sdrive/BHDS/BHO/CHPW/DBExtracts/" "/MCO/CHPW/DBExtracts/"
+put -filemask="*.*" "//hcashareddrives/Sdrive/BHDS/BHO/COORDINATEDCARE/DBExtracts/" "/MCO/COORDINATEDCARE/DBExtracts/"
+put -filemask="*.*" "//hcashareddrives/Sdrive/BHDS/BHO/MOLINA/DBExtracts/" "/MCO/MOLINA/DBExtracts/"
+put -filemask="*.*" "//hcashareddrives/Sdrive/BHDS/BHO/UNITEDHEALTHCARE/DBExtracts/" "/MCO/UNITEDHEALTHCARE/DBExtracts/"
+
+exit
